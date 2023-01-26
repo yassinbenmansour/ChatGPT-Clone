@@ -1,15 +1,19 @@
 import React from 'react'
-import Leftbar from "./components/leftbar/Leftbar.jsx"
-import Rightbar from "./components/rightbar/Rightbar.jsx"
+import Leftbar from './components/leftbar/Leftbar';
+import Rightbar from './components/rightbar/Rightbar';
 
 
-export default function () {
+function App() {
+
   return (
+    
     <div>
-
       <Leftbar />
+
       <Rightbar />
-      
     </div>
+    
   )
 }
+
+export default App
