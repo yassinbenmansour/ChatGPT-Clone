@@ -10,6 +10,8 @@ import { MdOutlineLogout } from "react-icons/md";
 
 export default function App() {
   const title = ['Light mode','OpenAI Discord','Update & FAQ','Log Out'];
+
+
   const icon = [
     <BsBrightnessHigh/>,
     <FaDiscord/>,

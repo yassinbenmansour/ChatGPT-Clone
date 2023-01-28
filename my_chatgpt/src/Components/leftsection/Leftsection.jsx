@@ -4,7 +4,7 @@ import {FiMessageSquare} from "react-icons/fi"
 
 export default function Leftsection({icon , title , messages}) {
   return (
-    <div className='flex  bg-black h-screen flex-col'>
+    <div className='flex  bg-black h-screen flex-col '>
       <div className='m-2 '>
        <a href="new chtat" className='flex items-center cursor-pointer gap-3 hover:bg-gray-500/10  border border-gray-500 rounded-md py-3 px-2 tracking-wide duration-150 transition-colors  text-sm text-white  '>
         <AiOutlinePlus/>
