@@ -1,4 +1,3 @@
 # ChatGPT-Clone
 
-
-sa aktobo  Readme 9ariban
+Link : https://lazy-chatgpt-clone.web.app/
